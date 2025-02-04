@@ -1,1 +1,44 @@
-[]
+[
+    {
+        "id": 0,
+        "start_time": "2025-02-04 19:00",
+        "team1": "الغرافة",
+        "team2": "باختاكور",
+        "logo1": "https:\/\/yallalive.sx\/wp-content\/uploads\/2022\/04\/الغرافة-150x150.png",
+        "logo1img": "الغرافة-150x150.png",
+        "logo2": "https:\/\/yallalive.sx\/wp-content\/uploads\/2022\/04\/باختاكور.png",
+        "logo2img": "باختاكور.png",
+        "result1": "-",
+        "result2": "-",
+        "event_time": "07:00 PM",
+        "timer": "لم تبدأ",
+        "commentator": "محمد الخامسي",
+        "channel": "SSC Extra 1",
+        "ref": 4069955044,
+        "match": 104820751,
+        "league": "دوري أبطال آسيا للنخبة",
+        "urlMatch": "https:\/\/wipteetolu.net\/4\/6251800",
+        "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P31xZHN4PWR\/dHFpPml\/fyc+c399P3giPWBxd3U\/L3l0LSBsYHxxaXViPWRpYHUtZ3VyYHxxaXViMk0="
+    },
+    {
+        "id": 1,
+        "start_time": "2025-02-04 21:00",
+        "team1": "الهلال",
+        "team2": "بيرسبوليس",
+        "logo1": "https:\/\/yallalive.sx\/wp-content\/uploads\/2022\/09\/الهلال.png",
+        "logo1img": "الهلال.png",
+        "logo2": "https:\/\/yallalive.sx\/wp-content\/uploads\/2023\/09\/1426455832.webp",
+        "logo2img": "1426455832.webp",
+        "result1": "-",
+        "result2": "-",
+        "event_time": "09:00 PM",
+        "timer": "لم تبدأ",
+        "commentator": "فارس عوض",
+        "channel": "SSC 1",
+        "ref": 1446726412,
+        "match": 2473958389,
+        "league": "دوري أبطال آسيا للنخبة",
+        "urlMatch": "https:\/\/wipteetolu.net\/4\/6251800",
+        "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P31xZHN4PWR\/dHFpPml\/fyc+c399P3giPWBxd3U\/L3l0LSFsYHxxaXViPWRpYHUtZ3VyYHxxaXViMk0="
+    }
+]
