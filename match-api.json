@@ -1,27 +1,6 @@
 [
     {
         "id": 0,
-        "start_time": "2025-03-30 21:45",
-        "team1": "نابولي",
-        "team2": "ميلان",
-        "logo1": "https:\/\/yallalive.sx\/wp-content\/uploads\/2021\/04\/شعار-نابولي.png",
-        "logo1img": "شعار-نابولي.png",
-        "logo2": "https:\/\/yallalive.sx\/wp-content\/uploads\/2021\/04\/ميلان.png",
-        "logo2img": "ميلان.png",
-        "result1": "0",
-        "result2": "0",
-        "event_time": "09:45 PM",
-        "timer": "انتهت",
-        "commentator": "فارس عوض",
-        "channel": "ابو ظبي بريميوم 1",
-        "ref": 1063391273,
-        "match": 2591166489,
-        "league": "الدوري الايطالي",
-        "urlMatch": "https:\/\/yalla-wa.site\/tOBXa",
-        "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P31xZHN4PWR\/dHFpPml\/fyc+c399P3giPWBxd3U\/L3l0LSBsYHxxaXViPWRpYHUtZ3VyYHxxaXViMk0="
-    },
-    {
-        "id": 1,
         "start_time": "2025-03-30 22:00",
         "team1": "ريال بيتيس",
         "team2": "اشبيلية",
@@ -29,8 +8,8 @@
         "logo1img": "ريال-بيتيس.png",
         "logo2": "https:\/\/yallalive.sx\/wp-content\/uploads\/2021\/05\/اشبيلية.png",
         "logo2img": "اشبيلية.png",
-        "result1": "-",
-        "result2": "-",
+        "result1": "0",
+        "result2": "0",
         "event_time": "10:00 PM",
         "timer": "انتهت",
         "commentator": "محمد مبروكي",
@@ -39,6 +18,6 @@
         "match": 2853287028,
         "league": "الدوري الإسباني",
         "urlMatch": "https:\/\/yalla-wa.site\/iJlCm",
-        "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P31xZHN4PWR\/dHFpPml\/fyc+c399P3giPWBxd3U\/L3l0LSFsYHxxaXViPWRpYHUtZ3VyYHxxaXViMk0="
+        "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P31xZHN4PWR\/dHFpPml\/fyc+c399P3giPWBxd3U\/L3l0LSBsYHxxaXViPWRpYHUtZ3VyYHxxaXViMk0="
     }
 ]
