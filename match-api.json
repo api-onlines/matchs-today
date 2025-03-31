@@ -1,1 +1,23 @@
-[]
+[
+    {
+        "id": 0,
+        "start_time": "2025-04-01 16:00",
+        "team1": "ماميلودي",
+        "team2": "الترجي",
+        "logo1": "https:\/\/yallalive.sx\/wp-content\/uploads\/2021\/05\/ماميلودي.png",
+        "logo1img": "ماميلودي.png",
+        "logo2": "https:\/\/yallalive.sx\/wp-content\/uploads\/2021\/05\/الترجي.png",
+        "logo2img": "الترجي.png",
+        "result1": "-",
+        "result2": "-",
+        "event_time": "04:00 PM",
+        "timer": "لم تبدأ",
+        "commentator": "عصام الشوالي",
+        "channel": "BeIN Sports 6",
+        "ref": 812751661,
+        "match": 3133000449,
+        "league": "دوري أبطال أفريقيا",
+        "urlMatch": "https:\/\/wipteetolu.net\/4\/6251800",
+        "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P31xZHN4PWR\/dHFpPml\/fyc+c399P3giPWBxd3U\/L3l0LSBsYHxxaXViPWRpYHUtZ3VyYHxxaXViMk0="
+    }
+]
