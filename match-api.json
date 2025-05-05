@@ -1,1 +1,23 @@
-[]
+[
+    {
+        "id": 0,
+        "start_time": "2025-05-06 22:00",
+        "team1": "انتر ميلان",
+        "team2": "برشلونة",
+        "logo1": "https:\/\/yallalive.sx\/wp-content\/uploads\/2021\/04\/انتر-ميلان.png",
+        "logo1img": "انتر-ميلان.png",
+        "logo2": "https:\/\/yallalive.sx\/wp-content\/uploads\/2021\/04\/برشلونة.png",
+        "logo2img": "برشلونة.png",
+        "result1": "-",
+        "result2": "-",
+        "event_time": "10:00 PM",
+        "timer": "لم تبدأ",
+        "commentator": "حفيظ الدراجي",
+        "channel": "BeIN Sports 1",
+        "ref": 2421016376,
+        "match": 2329429978,
+        "league": "دوري أبطال أوروبا",
+        "urlMatch": "https:\/\/wipteetolu.net\/4\/6251800",
+        "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P31xZHN4PWR\/dHFpPml\/fyc+c399P3giPWBxd3U\/L3l0LSBsYHxxaXViPWRpYHUtZ3VyYHxxaXViMk0="
+    }
+]
