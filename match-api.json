@@ -1,1 +1,44 @@
-[]
+[
+    {
+        "id": 0,
+        "start_time": "2025-06-08 16:00",
+        "team1": "ألمانيا",
+        "team2": "فرنسا",
+        "logo1": "https:\/\/yallalive.sx\/wp-content\/uploads\/2021\/06\/ألمانيا.png",
+        "logo1img": "ألمانيا.png",
+        "logo2": "https:\/\/yallalive.sx\/wp-content\/uploads\/2021\/06\/فرنسا.png",
+        "logo2img": "فرنسا.png",
+        "result1": "-",
+        "result2": "-",
+        "event_time": "04:00 PM",
+        "timer": "لم تبدأ",
+        "commentator": "محمد بركات",
+        "channel": "BeIN Sports 1",
+        "ref": 2421016376,
+        "match": 2344745583,
+        "league": "دوري الأمم الأوروبية",
+        "urlMatch": "https:\/\/wipteetolu.net\/4\/6251800",
+        "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P31xZHN4PWR\/dHFpPml\/fyc+c399P3giPWBxd3U\/L3l0LSBsYHxxaXViPWRpYHUtZ3VyYHxxaXViMk0="
+    },
+    {
+        "id": 1,
+        "start_time": "2025-06-08 22:00",
+        "team1": "البرتغال",
+        "team2": "اسبانيا",
+        "logo1": "https:\/\/yallalive.sx\/wp-content\/uploads\/2021\/06\/البرتغال.png",
+        "logo1img": "البرتغال.png",
+        "logo2": "https:\/\/yallalive.sx\/wp-content\/uploads\/2021\/06\/اسبانيا.png",
+        "logo2img": "اسبانيا.png",
+        "result1": "-",
+        "result2": "-",
+        "event_time": "10:00 PM",
+        "timer": "لم تبدأ",
+        "commentator": "علي الكعبي",
+        "channel": "BeIN Sports 1",
+        "ref": 2421016376,
+        "match": 3626529031,
+        "league": "دوري الأمم الأوروبية",
+        "urlMatch": "https:\/\/wipteetolu.net\/4\/6251800",
+        "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P31xZHN4PWR\/dHFpPml\/fyc+c399P3giPWBxd3U\/L3l0LSFsYHxxaXViPWRpYHUtZ3VyYHxxaXViMk0="
+    }
+]
