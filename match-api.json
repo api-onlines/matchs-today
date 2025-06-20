@@ -1,48 +1,6 @@
 [
     {
         "id": 0,
-        "start_time": "2025-06-20 19:00",
-        "team1": "بنفيكا",
-        "team2": "أوكلاند سيتي",
-        "logo1": "https:\/\/yallalive.sx\/wp-content\/uploads\/2021\/09\/بنفيكا.png",
-        "logo1img": "بنفيكا.png",
-        "logo2": "https:\/\/yallalive.sx\/wp-content\/uploads\/2023\/02\/أوكلاند-سيتي.png",
-        "logo2img": "أوكلاند-سيتي.png",
-        "result1": "0",
-        "result2": "0",
-        "event_time": "07:00 PM",
-        "timer": "مباشــر",
-        "commentator": "حماد العنزي",
-        "channel": "DAZN",
-        "ref": 1809227723,
-        "match": 2629377873,
-        "league": "كأس العالم للأندية 2025",
-        "urlMatch": "https:\/\/linkb.site\/Fbuid",
-        "streamUrl": "XPOLA808MnhkZGBjKj8\/Z3l7eX51Zz5+dWd7Y38+YmU\/Z3l7eT9pcXx8cXx5ZnVzfn51ZnV+cSM\/fX9+fz59I2UobGJ1dnVidWIteGRkYGMqPz9+dWd1fXJ1dGB8cWk+aGlqP2xkeWR8dS0wbHhkZGBzcX5xYmktdnF8Y3Vsc3FjZC12cXxjdTI="
-    },
-    {
-        "id": 1,
-        "start_time": "2025-06-20 21:00",
-        "team1": "فلامينغو",
-        "team2": "تشيلسي",
-        "logo1": "https:\/\/yallalive.sx\/wp-content\/uploads\/2021\/11\/فلامنجو.png",
-        "logo1img": "فلامنجو.png",
-        "logo2": "https:\/\/yallalive.sx\/wp-content\/uploads\/2021\/04\/شعار-تشيلسي.png",
-        "logo2img": "شعار-تشيلسي.png",
-        "result1": "0",
-        "result2": "0",
-        "event_time": "09:00 PM",
-        "timer": "مباشــر",
-        "commentator": "محمد الشاذلي",
-        "channel": "DAZN",
-        "ref": 1809227723,
-        "match": 1160128241,
-        "league": "كأس العالم للأندية 2025",
-        "urlMatch": "https:\/\/linkb.site\/SyOSR",
-        "streamUrl": "XPOLA808MnhkZGBjKj8\/Z3l7eX51Zz5+dWd7Y38+YmU\/Z3l7eT9pcXx8cXx5ZnVzfn51ZnV+cSY\/fX9+fz59I2UobGJ1dnVidWIteGRkYGMqPz9+dWd1fXJ1dGB8cWk+aGlqP2xkeWR8dS0wbHhkZGBzcX5xYmktdnF8Y3Vsc3FjZC12cXxjdTI="
-    },
-    {
-        "id": 2,
         "start_time": "2025-06-21 01:00",
         "team1": "لوس أنجلوس",
         "team2": "الترجي",
@@ -60,10 +18,10 @@
         "match": 2176562101,
         "league": "كأس العالم للأندية 2025",
         "urlMatch": "https:\/\/linkb.site\/AsqVy",
-        "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P31xZHN4PWR\/dHFpPml\/fyc+c399P3giPWBxd3U\/L3l0LSJsYHxxaXViPWRpYHUtZ3VyYHxxaXViMk0="
+        "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P31xZHN4PWR\/dHFpPml\/fyc+c399P3giPWBxd3U\/L3l0LSBsYHxxaXViPWRpYHUtZ3VyYHxxaXViMk0="
     },
     {
-        "id": 3,
+        "id": 1,
         "start_time": "2025-06-21 04:00",
         "team1": "بايرن ميونخ",
         "team2": "بوكا جونيورز",
@@ -81,6 +39,6 @@
         "match": 1145805488,
         "league": "كأس العالم للأندية 2025",
         "urlMatch": "https:\/\/linkb.site\/NbkWw",
-        "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P31xZHN4PWR\/dHFpPml\/fyc+c399P3giPWBxd3U\/L3l0LSNsYHxxaXViPWRpYHUtZ3VyYHxxaXViMk0="
+        "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P31xZHN4PWR\/dHFpPml\/fyc+c399P3giPWBxd3U\/L3l0LSFsYHxxaXViPWRpYHUtZ3VyYHxxaXViMk0="
     }
 ]
