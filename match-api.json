@@ -1,27 +1,6 @@
 [
     {
         "id": 0,
-        "start_time": "2025-06-21 04:00",
-        "team1": "بايرن ميونخ",
-        "team2": "بوكا جونيورز",
-        "logo1": "https:\/\/yallalive.sx\/wp-content\/uploads\/2021\/04\/شعار-بايرن-ميونخ.png",
-        "logo1img": "شعار-بايرن-ميونخ.png",
-        "logo2": "https:\/\/yallalive.sx\/wp-content\/uploads\/2021\/12\/بوكا-جونيورز.png",
-        "logo2img": "بوكا-جونيورز.png",
-        "result1": "0",
-        "result2": "0",
-        "event_time": "04:00 AM",
-        "timer": "انتهت",
-        "commentator": "خالد الغول",
-        "channel": "DAZN",
-        "ref": 1809227723,
-        "match": 1145805488,
-        "league": "كأس العالم للأندية 2025",
-        "urlMatch": "https:\/\/linkb.site\/NbkWw",
-        "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P31xZHN4PWR\/dHFpPml\/fyc+c399P3giPWBxd3U\/L3l0LSBsYHxxaXViPWRpYHUtZ3VyYHxxaXViMk0="
-    },
-    {
-        "id": 1,
         "start_time": "2025-06-21 19:00",
         "team1": "ماميلودي",
         "team2": "دورتموند",
@@ -39,10 +18,10 @@
         "match": 1327917886,
         "league": "كأس العالم للأندية 2025",
         "urlMatch": "https:\/\/wipteetolu.net\/4\/6251800",
-        "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P31xZHN4PWR\/dHFpPml\/fyc+c399P3giPWBxd3U\/L3l0LSFsYHxxaXViPWRpYHUtZ3VyYHxxaXViMk0="
+        "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P31xZHN4PWR\/dHFpPml\/fyc+c399P3giPWBxd3U\/L3l0LSBsYHxxaXViPWRpYHUtZ3VyYHxxaXViMk0="
     },
     {
-        "id": 2,
+        "id": 1,
         "start_time": "2025-06-21 22:00",
         "team1": "انتر ميلان",
         "team2": "آوراوا ريد دياموندز",
@@ -60,10 +39,10 @@
         "match": 2501322169,
         "league": "كأس العالم للأندية 2025",
         "urlMatch": "https:\/\/wipteetolu.net\/4\/6251800",
-        "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P31xZHN4PWR\/dHFpPml\/fyc+c399P3giPWBxd3U\/L3l0LSJsYHxxaXViPWRpYHUtZ3VyYHxxaXViMk0="
+        "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P31xZHN4PWR\/dHFpPml\/fyc+c399P3giPWBxd3U\/L3l0LSFsYHxxaXViPWRpYHUtZ3VyYHxxaXViMk0="
     },
     {
-        "id": 3,
+        "id": 2,
         "start_time": "2025-06-22 01:00",
         "team1": "فلومينينسي",
         "team2": "أولسان",
@@ -81,10 +60,10 @@
         "match": 736569802,
         "league": "كأس العالم للأندية 2025",
         "urlMatch": "https:\/\/wipteetolu.net\/4\/6251800",
-        "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P31xZHN4PWR\/dHFpPml\/fyc+c399P3giPWBxd3U\/L3l0LSNsYHxxaXViPWRpYHUtZ3VyYHxxaXViMk0="
+        "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P31xZHN4PWR\/dHFpPml\/fyc+c399P3giPWBxd3U\/L3l0LSJsYHxxaXViPWRpYHUtZ3VyYHxxaXViMk0="
     },
     {
-        "id": 4,
+        "id": 3,
         "start_time": "2025-06-22 04:00",
         "team1": "ريفر بليت",
         "team2": "مونتيري",
@@ -102,6 +81,6 @@
         "match": 129373837,
         "league": "كأس العالم للأندية 2025",
         "urlMatch": "https:\/\/wipteetolu.net\/4\/6251800",
-        "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P31xZHN4PWR\/dHFpPml\/fyc+c399P3giPWBxd3U\/L3l0LSRsYHxxaXViPWRpYHUtZ3VyYHxxaXViMk0="
+        "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P31xZHN4PWR\/dHFpPml\/fyc+c399P3giPWBxd3U\/L3l0LSNsYHxxaXViPWRpYHUtZ3VyYHxxaXViMk0="
     }
 ]
