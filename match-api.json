@@ -1,27 +1,6 @@
 [
     {
         "id": 0,
-        "start_time": "2025-07-05 04:00",
-        "team1": "بالميراس",
-        "team2": "تشيلسي",
-        "logo1": "https:\/\/yallalive.sx\/wp-content\/uploads\/2021\/11\/بالميراس.png",
-        "logo1img": "بالميراس.png",
-        "logo2": "https:\/\/yallalive.sx\/wp-content\/uploads\/2021\/04\/شعار-تشيلسي.png",
-        "logo2img": "شعار-تشيلسي.png",
-        "result1": "0",
-        "result2": "0",
-        "event_time": "04:00 AM",
-        "timer": "مباشــر",
-        "commentator": "خالد الغول",
-        "channel": "DAZN",
-        "ref": 1809227723,
-        "match": 3871774859,
-        "league": "كأس العالم للأندية 2025",
-        "urlMatch": "https:\/\/linkb.site\/PLXlF",
-        "streamUrl": "XPOLA808MnhkZGBjKj8\/Z3l7eX51Zz5+dWd7Y38+YmU\/Z3l7eT9pcXx8cXx5ZnVzfn51ZnV+cSM\/fX9+fz59I2UobGJ1dnVidWIteGRkYGMqPz9+dWd1fXJ1dGB8cWk+aGlqP2xkeWR8dS0wbHhkZGBzcX5xYmktdnF8Y3Vsc3FjZC12cXxjdTI="
-    },
-    {
-        "id": 1,
         "start_time": "2025-07-05 19:00",
         "team1": "باريس سان جيرمان",
         "team2": "بايرن ميونخ",
@@ -39,10 +18,10 @@
         "match": 2575145751,
         "league": "كأس العالم للأندية 2025",
         "urlMatch": "https:\/\/wipteetolu.net\/4\/6251800",
-        "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P31xZHN4PWR\/dHFpPml\/fyc+c399P3giPWBxd3U\/L3l0LSFsYHxxaXViPWRpYHUtZ3VyYHxxaXViMk0="
+        "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P31xZHN4PWR\/dHFpPml\/fyc+c399P3giPWBxd3U\/L3l0LSBsYHxxaXViPWRpYHUtZ3VyYHxxaXViMk0="
     },
     {
-        "id": 2,
+        "id": 1,
         "start_time": "2025-07-05 23:00",
         "team1": "ريال مدريد",
         "team2": "دورتموند",
@@ -60,6 +39,6 @@
         "match": 491017248,
         "league": "كأس العالم للأندية 2025",
         "urlMatch": "https:\/\/wipteetolu.net\/4\/6251800",
-        "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P31xZHN4PWR\/dHFpPml\/fyc+c399P3giPWBxd3U\/L3l0LSJsYHxxaXViPWRpYHUtZ3VyYHxxaXViMk0="
+        "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P31xZHN4PWR\/dHFpPml\/fyc+c399P3giPWBxd3U\/L3l0LSFsYHxxaXViPWRpYHUtZ3VyYHxxaXViMk0="
     }
 ]
