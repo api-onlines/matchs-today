@@ -1,1 +1,23 @@
-[]
+[
+    {
+        "id": 0,
+        "start_time": "2025-11-14 18:00",
+        "team1": "عمان",
+        "team2": "السودان",
+        "logo1": "https:\/\/yallalive.sx\/wp-content\/uploads\/2021\/06\/عمان.png",
+        "logo1img": "عمان.png",
+        "logo2": "https:\/\/yallalive.sx\/wp-content\/uploads\/2021\/06\/السودان.png",
+        "logo2img": "السودان.png",
+        "result1": "-",
+        "result2": "-",
+        "event_time": "06:00 PM",
+        "timer": "لم تبدأ",
+        "commentator": "سالم السالمي",
+        "channel": "عمان الرياضية",
+        "ref": 1540762017,
+        "match": 519512767,
+        "league": "مباراة ودية",
+        "urlMatch": "https:\/\/wipteetolu.net\/4\/6251800",
+        "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P3d5ZHhlcj5zf30\/Znl0dX89aGB8cWl1Yj9meXR1f2M\/YnFnP2J1dmM\/eHVxdGM\/fXF5fj92cXxjdT59YCQyTQ=="
+    }
+]
