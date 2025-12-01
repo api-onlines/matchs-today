@@ -1,1 +1,23 @@
-[]
+[
+    {
+        "id": 0,
+        "start_time": "2025-12-02 15:00",
+        "team1": "المغرب",
+        "team2": "جزر القمر",
+        "logo1": "https:\/\/yallalive.sx\/wp-content\/uploads\/2021\/11\/المغرب.png",
+        "logo1img": "المغرب.png",
+        "logo2": "https:\/\/yallalive.sx\/wp-content\/uploads\/2021\/06\/جزر-القمر.png",
+        "logo2img": "جزر-القمر.png",
+        "result1": "-",
+        "result2": "-",
+        "event_time": "03:00 PM",
+        "timer": "لم تبدأ",
+        "commentator": "سمير اليعقوبي",
+        "channel": "الكأس 1",
+        "ref": 934904235,
+        "match": 2021797856,
+        "league": "بطولة كأس العرب 2025",
+        "urlMatch": "https:\/\/wipteetolu.net\/4\/6251800",
+        "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P3d5ZHhlcj5zf30\/Znl0dX89aGB8cWl1Yj9meXR1f2M\/YnFnP2J1dmM\/eHVxdGM\/fXF5fj92cXxjdT59YCQyTQ=="
+    }
+]
