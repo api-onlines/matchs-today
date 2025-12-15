@@ -1,1 +1,44 @@
-[]
+[
+    {
+        "id": 0,
+        "start_time": "2025-12-15 17:30",
+        "team1": "المغرب",
+        "team2": "الامارات",
+        "logo1": "https:\/\/yallalive.sx\/wp-content\/uploads\/2021\/11\/المغرب.png",
+        "logo1img": "المغرب.png",
+        "logo2": "https:\/\/yallalive.sx\/wp-content\/uploads\/2021\/06\/الامارات.png",
+        "logo2img": "الامارات.png",
+        "result1": "-",
+        "result2": "-",
+        "event_time": "05:30 PM",
+        "timer": "لم تبدأ",
+        "commentator": "عامر الخوذيري",
+        "channel": "BeIN Sports",
+        "ref": 148938251,
+        "match": 3918939340,
+        "league": "بطولة كأس العرب 2025",
+        "urlMatch": "https:\/\/wipteetolu.net\/4\/6251800",
+        "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P2dnZz5pf2VkZXJ1PnN\/fT9ncWRzeC9mLVF5QXFjdENiSkZ\/bGB8cWl1Yj1kaWB1LWd1ciJ1aH9sfnF9dS1SQ2x2eX50LT59I2UoMk0="
+    },
+    {
+        "id": 1,
+        "start_time": "2025-12-15 20:30",
+        "team1": "السعودية",
+        "team2": "الأردن",
+        "logo1": "https:\/\/yallalive.sx\/wp-content\/uploads\/2021\/06\/السعودية.png",
+        "logo1img": "السعودية.png",
+        "logo2": "https:\/\/yallalive.sx\/wp-content\/uploads\/2021\/06\/الأردن.png",
+        "logo2img": "الأردن.png",
+        "result1": "-",
+        "result2": "-",
+        "event_time": "08:30 PM",
+        "timer": "لم تبدأ",
+        "commentator": "علي الكعبي",
+        "channel": "BeIN Sports",
+        "ref": 148938251,
+        "match": 2685551435,
+        "league": "بطولة كأس العرب 2025",
+        "urlMatch": "https:\/\/wipteetolu.net\/4\/6251800",
+        "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P2dnZz5pf2VkZXJ1PnN\/fT9ncWRzeC9mLVF5QXFjdENiSkZ\/bGB8cWl1Yj1kaWB1LWd1ciJ1aH9sfnF9dS1SQ2x2eX50LT59I2UoMk0="
+    }
+]
