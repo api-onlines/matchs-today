@@ -1,1 +1,23 @@
-[]
+[
+    {
+        "id": 0,
+        "start_time": "2025-12-29 19:00",
+        "team1": "أنغولا",
+        "team2": "مصر",
+        "logo1": "https:\/\/yallalive.sx\/wp-content\/uploads\/2021\/09\/أنغولا.png",
+        "logo1img": "أنغولا.png",
+        "logo2": "https:\/\/yallalive.sx\/wp-content\/uploads\/2021\/07\/مصر.png",
+        "logo2img": "مصر.png",
+        "result1": "-",
+        "result2": "-",
+        "event_time": "07:00 PM",
+        "timer": "لم تبدأ",
+        "commentator": "علي محمد علي",
+        "channel": "BeIN MAX1",
+        "ref": 3127654706,
+        "match": 1611448641,
+        "league": "كأس أمم أفريقيا",
+        "urlMatch": "https:\/\/wipteetolu.net\/4\/6251800",
+        "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P3EiPnFgez1xYHk+c399P3FgeT9zeHF+fnV8PyElIiFsfnF9dS1DITI8MnhkZGBjKj8\/cSI+cWB7PXFgeT5zf30\/cWB5P3N4cX5+dXw\/ISUiImx+cX11LUMiMjwyeGRkYGMqPz9xIj5xYHs9cWB5PnN\/fT9xYHk\/c3hxfn51fD8hJCIiMk0="
+    }
+]
