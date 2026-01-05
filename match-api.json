@@ -1,27 +1,6 @@
 [
     {
         "id": 0,
-        "start_time": "2026-01-05 19:00",
-        "team1": "مصر",
-        "team2": "بنين",
-        "logo1": "https:\/\/yallalive.sx\/wp-content\/uploads\/2021\/07\/مصر.png",
-        "logo1img": "مصر.png",
-        "logo2": "https:\/\/yallalive.sx\/wp-content\/uploads\/2022\/06\/بنين.png",
-        "logo2img": "بنين.png",
-        "result1": "0",
-        "result2": "0",
-        "event_time": "07:00 PM",
-        "timer": "مباشــر",
-        "commentator": "علي محمد علي",
-        "channel": "BeIN MAX1",
-        "ref": 3127654706,
-        "match": 1868356670,
-        "league": "كأس أمم أفريقيا",
-        "urlMatch": "https:\/\/linkb.my\/vpltj",
-        "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P3EiPnFgez1xYHk+c399P3FgeT9zeHF+fnV8PyElIiFsfnF9dS1DITI8MnhkZGBjKj8\/cSI+cWB7PXFgeT5zf30\/cWB5P3N4cX5+dXw\/ISUiImx+cX11LUMiMjwyeGRkYGMqPz9xIj5xYHs9cWB5PnN\/fT9xYHk\/c3hxfn51fD8hJCIiMk0="
-    },
-    {
-        "id": 1,
         "start_time": "2026-01-05 22:00",
         "team1": "نيجيريا",
         "team2": "موزمبيق",
@@ -42,7 +21,7 @@
         "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P3EiPnFgez1xYHk+c399P3FgeT9zeHF+fnV8PyElIiFsfnF9dS1DITI8MnhkZGBjKj8\/cSI+cWB7PXFgeT5zf30\/cWB5P3N4cX5+dXw\/ISUiImx+cX11LUMiMjwyeGRkYGMqPz9xIj5xYHs9cWB5PnN\/fT9xYHk\/c3hxfn51fD8hJCIiMk0="
     },
     {
-        "id": 2,
+        "id": 1,
         "start_time": "2026-01-05 23:00",
         "team1": "ليستر سيتي",
         "team2": "وست بروميتش",
