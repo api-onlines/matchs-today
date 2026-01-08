@@ -22,27 +22,6 @@
     },
     {
         "id": 1,
-        "start_time": "2026-01-08 22:00",
-        "team1": "أتلتيكو مدريد",
-        "team2": "ريال مدريد",
-        "logo1": "https:\/\/yallalive.sx\/wp-content\/uploads\/2021\/04\/أتلتيكو-مدريد.png",
-        "logo1img": "أتلتيكو-مدريد.png",
-        "logo2": "https:\/\/yallalive.sx\/wp-content\/uploads\/2021\/04\/شعار-ريال-مدريد.png",
-        "logo2img": "شعار-ريال-مدريد.png",
-        "result1": "0",
-        "result2": "0",
-        "event_time": "10:00 PM",
-        "timer": "مباشــر",
-        "commentator": "فارس عوض",
-        "channel": "تطبيق ثمانية",
-        "ref": 1723927199,
-        "match": 4046561022,
-        "league": "كأس السوبر الأسباني",
-        "urlMatch": "https:\/\/linkb.my\/JTfxY",
-        "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P3d5ZHhlcj5zf30\/Znl0dX89aGB8cWl1Yj9meXR1f2M\/YnFnP2J1dmM\/eHVxdGM\/fXF5fj92cXxjdT59YCQyTQ=="
-    },
-    {
-        "id": 2,
         "start_time": "2026-01-08 22:45",
         "team1": "ميلان",
         "team2": "جنوى",
@@ -63,7 +42,7 @@
         "streamUrl": "XPOLA808SzJ4ZGRgYyo\/P3ZxY2R8aT18eWZ1PnN0fj55fmR5d2JxfD1\/ZGQ+fnVkP0NEUz9DRFM+eWN9fD99cX55dnVjZD59YHRseGRkYHNxfnFiaS12cXxjdWxzcWNkLXZxfGN1bH5xfXUtV1VfbHRifT15fnZ\/LXN8dXFie3VpbCQndiBxciUodiVxKCFzIiByJXImKXRzJCkkc3J1ISAiKiF1ICchKXRxJiUjcyJyJCYlInYgciBydigkdCkmcyckMjwyeGRkYGMqPz9hcX5xZCU+Y3lkdT9lYHx\/cXQ\/eX1xd3VjP3x\/d38nPmp5YGxlY3ViPXF3dX5kLV1\/anl8fHE\/JT4gMDh5QHh\/fnUrMFNARTB5QHh\/fnUwX0MwISZPJjB8eXt1MF1xczBfQzBIOTBRYGB8dUd1clt5ZD8mICU+IT4hJTA4W1hEXVw8MHx5e3UwV3Vze385MEZ1YmN5f34\/ISY+JjBdf3J5fHU\/ISVVISQoMENxdnFieT8mICQ+IWxidXZ1YnViLXhkZGBjKj8\/Z2dnPmlxYnl3cT58eWZ1P2x+cX11LUlRMk0="
     },
     {
-        "id": 3,
+        "id": 2,
         "start_time": "2026-01-08 23:00",
         "team1": "آرسنال",
         "team2": "ليفربول",
