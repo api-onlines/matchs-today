@@ -1,7 +1,7 @@
 [
     {
         "id": 0,
-        "start_time": 1781200800,
+        "start_time": 1781204400,
         "team1": "المكسيك",
         "team2": "جنوب أفريقيا",
         "logo1": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2018\/7\/24\/Mexico2018_7_24_14_40.jpg",
@@ -10,7 +10,7 @@
         "logo2img": "SouthAfrica2018_7_26_19_21.jpg",
         "result1": "",
         "result2": "",
-        "event_time": "09:00 PM",
+        "event_time": "10:00 PM",
         "timer": "لم تبدأ",
         "commentator": null,
         "channel": "beIN SPORTS MAX HD1",
@@ -22,7 +22,7 @@
     },
     {
         "id": 1,
-        "start_time": 1781132400,
+        "start_time": 1781136000,
         "team1": "بوليفيا",
         "team2": "الجزائر",
         "logo1": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2018\/9\/10\/Bolivia2018_9_10_18_29.jpg",
@@ -31,7 +31,7 @@
         "logo2img": "Algeria2018_7_26_19_30.jpg",
         "result1": "0",
         "result2": "4",
-        "event_time": "02:00 AM",
+        "event_time": "03:00 AM",
         "timer": "انتهت",
         "commentator": null,
         "channel": "الجزائرية الرياضية",
