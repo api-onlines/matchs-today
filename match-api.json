@@ -1,1 +1,23 @@
-[]
+[
+    {
+        "id": 0,
+        "start_time": 1783627200,
+        "team1": "فرنسا",
+        "team2": "المغرب",
+        "logo1": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2018\/7\/24\/France2018_7_24_14_43.jpg",
+        "logo1img": "France2018_7_24_14_43.jpg",
+        "logo2": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2018\/7\/24\/Morocco2018_7_24_14_48.jpg",
+        "logo2img": "Morocco2018_7_24_14_48.jpg",
+        "result1": "",
+        "result2": "",
+        "event_time": "11:00 PM",
+        "timer": "لم تبدأ",
+        "commentator": null,
+        "channel": "beIN SPORTS MAX HD1",
+        "ref": 1882266261,
+        "match": 2107647122,
+        "league": "كأس العالم",
+        "urlMatch": null,
+        "streamUrl": "XPOLA808SzJ4ZGRgKkw\/TD9xIj5xYHs9cWB5PnN\/fUw\/cWB5TD9zeHF+fnV8TD8hJCchMjwyeGRkYCpMP0w\/YGJ\/Pn51ZH1\/Yz5\/ZngqJyMlJUw\/fHlmdUw\/XV1ERl8oKUMnVEknU15GJ0NUTD9AJ1hZVENAU14lKCBHSFgpIEw\/ISghJiYhPmRjbH5xfXUtUVwyTQ=="
+    }
+]
