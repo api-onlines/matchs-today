@@ -85,6 +85,27 @@
     },
     {
         "id": 4,
+        "start_time": 1787837400,
+        "team1": "كهرباء الإسماعيلية",
+        "team2": "بروكسي",
+        "logo1": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2025\/8\/10\/kahraba2025_8_10_16_41.webp",
+        "logo1img": "kahraba2025_8_10_16_41.webp",
+        "logo2": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2023\/5\/4\/42023_5_4_17_47.jpg",
+        "logo2img": "42023_5_4_17_47.jpg",
+        "result1": "2",
+        "result2": "0",
+        "event_time": "04:30 PM",
+        "timer": "مباشــر",
+        "commentator": null,
+        "channel": "",
+        "ref": 3820012610,
+        "match": 2616293841,
+        "league": "دوري القسم الثاني-أ",
+        "urlMatch": null,
+        "streamUrl": "XPOLA808SzJ4ZGRgYypMP0w\/d3lkeGVyPnN\/fUw\/Znl0dX89aGB8cWl1Ykw\/Znl0dX9jTD9icWdMP2J1dmNMP3h1cXRjTD99cXl+TD92cXxjdT59YCQyTQ=="
+    },
+    {
+        "id": 5,
         "start_time": 1787855400,
         "team1": "فرنتسفاروشي",
         "team2": "طرابزون سبور",
@@ -105,7 +126,7 @@
         "streamUrl": "XPOLA808SzJ4ZGRgYypMP0w\/d3lkeGVyPnN\/fUw\/Znl0dX89aGB8cWl1Ykw\/Znl0dX9jTD9icWdMP2J1dmNMP3h1cXRjTD99cXl+TD92cXxjdT59YCQyTQ=="
     },
     {
-        "id": 5,
+        "id": 6,
         "start_time": 1787855400,
         "team1": "مصر",
         "team2": "السنغال",
