@@ -124,5 +124,26 @@
         "league": "دوري أبطال أوروبا",
         "urlMatch": null,
         "streamUrl": "XPOLA808SzJ4ZGRgYypMP0w\/d3lkeGVyPnN\/fUw\/Znl0dX89aGB8cWl1Ykw\/Znl0dX9jTD9icWdMP2J1dmNMP3h1cXRjTD99cXl+TD92cXxjdT59YCQyTQ=="
+    },
+    {
+        "id": 6,
+        "start_time": 1789056900,
+        "team1": "العين",
+        "team2": "الوصل",
+        "logo1": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2024\/10\/29\/21502024_10_29_19_14.jpg",
+        "logo1img": "21502024_10_29_19_14.jpg",
+        "logo2": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2018\/7\/25\/Alwasl2018_7_25_15_22.jpg",
+        "logo2img": "Alwasl2018_7_25_15_22.jpg",
+        "result1": "0",
+        "result2": "0",
+        "event_time": "07:15 PM",
+        "timer": "مباشــر",
+        "commentator": null,
+        "channel": "أبوظبي الرياضية - HD1",
+        "ref": 1325257729,
+        "match": 3994839678,
+        "league": "الدوري الإماراتي",
+        "urlMatch": null,
+        "streamUrl": "XPOLA808SzJ4ZGRgYypMP0w\/d3lkeGVyPnN\/fUw\/Znl0dX89aGB8cWl1Ykw\/Znl0dX9jTD9icWdMP2J1dmNMP3h1cXRjTD99cXl+TD92cXxjdT59YCQyTQ=="
     }
 ]
