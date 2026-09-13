@@ -22,27 +22,6 @@
     },
     {
         "id": 1,
-        "start_time": 1789304400,
-        "team1": "كوفنتري سيتي",
-        "team2": "برايتون",
-        "logo1": "https:\/\/mediayk.gemini.media\/img\/yallakora\/teamlogo\/476px-Coventry_City4517-1-2014-21-55-44.png",
-        "logo1img": "476px-Coventry_City4517-1-2014-21-55-44.png",
-        "logo2": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2018\/7\/29\/Brighton2018_7_29_15_31.jpg",
-        "logo2img": "Brighton2018_7_29_15_31.jpg",
-        "result1": "0",
-        "result2": "5",
-        "event_time": "04:00 PM",
-        "timer": "انتهت",
-        "commentator": null,
-        "channel": "بى ان سبورت 4 HD",
-        "ref": 2097291845,
-        "match": 1294133089,
-        "league": "الدوري الإنجليزي",
-        "urlMatch": null,
-        "streamUrl": "XPOLA808SzJ4ZGRgYypMP0w\/d3lkeGVyPnN\/fUw\/Znl0dX89aGB8cWl1Ykw\/Znl0dX9jTD9icWdMP2J1dmNMP3h1cXRjTD99cXl+TD92cXxjdT59YCQyTQ=="
-    },
-    {
-        "id": 2,
         "start_time": 1789313400,
         "team1": "مانشستر يونايتد",
         "team2": "مانشستر سيتي",
@@ -63,7 +42,7 @@
         "streamUrl": "XPOLA808SzJ4ZGRgYypMP0w\/d3lkeGVyPnN\/fUw\/Znl0dX89aGB8cWl1Ykw\/Znl0dX9jTD9icWdMP2J1dmNMP3h1cXRjTD99cXl+TD92cXxjdT59YCQyTQ=="
     },
     {
-        "id": 3,
+        "id": 2,
         "start_time": 1789308900,
         "team1": "ليفانتي",
         "team2": "برشلونة",
@@ -84,7 +63,7 @@
         "streamUrl": "XPOLA808SzJ4ZGRgYypMP0w\/d3lkeGVyPnN\/fUw\/Znl0dX89aGB8cWl1Ykw\/Znl0dX9jTD9icWdMP2J1dmNMP3h1cXRjTD99cXl+TD92cXxjdT59YCQyTQ=="
     },
     {
-        "id": 4,
+        "id": 3,
         "start_time": 1789326000,
         "team1": "ريال سوسيداد",
         "team2": "اتلتيكو مدريد",
@@ -105,7 +84,7 @@
         "streamUrl": "XPOLA808SzJ4ZGRgYypMP0w\/d3lkeGVyPnN\/fUw\/Znl0dX89aGB8cWl1Ykw\/Znl0dX9jTD9icWdMP2J1dmNMP3h1cXRjTD99cXl+TD92cXxjdT59YCQyTQ=="
     },
     {
-        "id": 5,
+        "id": 4,
         "start_time": 1789325100,
         "team1": "بريست",
         "team2": "باريس سان جيرمان",
@@ -126,28 +105,7 @@
         "streamUrl": "XPOLA808SzJ4ZGRgYypMP0w\/d3lkeGVyPnN\/fUw\/Znl0dX89aGB8cWl1Ykw\/Znl0dX9jTD9icWdMP2J1dmNMP3h1cXRjTD99cXl+TD92cXxjdT59YCQyTQ=="
     },
     {
-        "id": 6,
-        "start_time": 1789315200,
-        "team1": "نابولي",
-        "team2": "بولونيا",
-        "logo1": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2024\/8\/25\/Napoli12024_8_25_20_48.jpg",
-        "logo1img": "Napoli12024_8_25_20_48.jpg",
-        "logo2": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2018\/7\/29\/Bologna2018_7_29_15_11.jpg",
-        "logo2img": "Bologna2018_7_29_15_11.jpg",
-        "result1": "1",
-        "result2": "0",
-        "event_time": "07:00 PM",
-        "timer": "انتهت",
-        "commentator": null,
-        "channel": "Starz Play App",
-        "ref": 2873361112,
-        "match": 2490770162,
-        "league": "الدوري الإيطالي",
-        "urlMatch": null,
-        "streamUrl": "XPOLA808SzJ4ZGRgYypMP0w\/d3lkeGVyPnN\/fUw\/Znl0dX89aGB8cWl1Ykw\/Znl0dX9jTD9icWdMP2J1dmNMP3h1cXRjTD99cXl+TD92cXxjdT59YCQyTQ=="
-    },
-    {
-        "id": 7,
+        "id": 5,
         "start_time": 1789325100,
         "team1": "ساسولو",
         "team2": "يوفنتوس",
@@ -164,27 +122,6 @@
         "ref": 2873361112,
         "match": 3998007518,
         "league": "الدوري الإيطالي",
-        "urlMatch": null,
-        "streamUrl": "XPOLA808SzJ4ZGRgYypMP0w\/d3lkeGVyPnN\/fUw\/Znl0dX89aGB8cWl1Ykw\/Znl0dX9jTD9icWdMP2J1dmNMP3h1cXRjTD99cXl+TD92cXxjdT59YCQyTQ=="
-    },
-    {
-        "id": 8,
-        "start_time": 1789313400,
-        "team1": "إس في إلفيرسبيرج",
-        "team2": "بايرن ميونيخ",
-        "logo1": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2026\/8\/2\/Screenshot 2026-08-02 1929152026_8_2_19_28.webp",
-        "logo1img": "Screenshot 2026-08-02 1929152026_8_2_19_28.webp",
-        "logo2": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2018\/7\/29\/BayernMunchen2018_7_29_16_3.jpg",
-        "logo2img": "BayernMunchen2018_7_29_16_3.jpg",
-        "result1": "1",
-        "result2": "2",
-        "event_time": "06:30 PM",
-        "timer": "انتهت",
-        "commentator": null,
-        "channel": "",
-        "ref": 3820012610,
-        "match": 509645017,
-        "league": "الدوري الألماني",
         "urlMatch": null,
         "streamUrl": "XPOLA808SzJ4ZGRgYypMP0w\/d3lkeGVyPnN\/fUw\/Znl0dX89aGB8cWl1Ykw\/Znl0dX9jTD9icWdMP2J1dmNMP3h1cXRjTD99cXl+TD92cXxjdT59YCQyTQ=="
     }
