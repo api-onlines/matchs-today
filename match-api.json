@@ -145,5 +145,26 @@
         "league": "الدوري الإيطالي",
         "urlMatch": null,
         "streamUrl": "XPOLA808SzJ4ZGRgYypMP0w\/d3lkeGVyPnN\/fUw\/Znl0dX89aGB8cWl1Ykw\/Znl0dX9jTD9icWdMP2J1dmNMP3h1cXRjTD99cXl+TD92cXxjdT59YCQyTQ=="
+    },
+    {
+        "id": 7,
+        "start_time": 1789835400,
+        "team1": "شتوتجارت",
+        "team2": "بروسيا دورتموند",
+        "logo1": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2018\/7\/29\/Stuttgart2018_7_29_16_4.jpg",
+        "logo1img": "Stuttgart2018_7_29_16_4.jpg",
+        "logo2": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2018\/7\/29\/BorussiaDortmund2018_7_29_16_4.jpg",
+        "logo2img": "BorussiaDortmund2018_7_29_16_4.jpg",
+        "result1": "0",
+        "result2": "0",
+        "event_time": "07:30 PM",
+        "timer": "مباشــر",
+        "commentator": null,
+        "channel": "‎MBC Action",
+        "ref": 1853830106,
+        "match": 308769804,
+        "league": "الدوري الألماني",
+        "urlMatch": null,
+        "streamUrl": "XPOLA808SzJ4ZGRgYypMP0w\/d3lkeGVyPnN\/fUw\/Znl0dX89aGB8cWl1Ykw\/Znl0dX9jTD9icWdMP2J1dmNMP3h1cXRjTD99cXl+TD92cXxjdT59YCQyTQ=="
     }
 ]
