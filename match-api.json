@@ -124,5 +124,26 @@
         "league": "بطولة العالم للأندية لكرة اليد",
         "urlMatch": null,
         "streamUrl": "XPOLA808SzJ4ZGRgYypMP0w\/d3lkeGVyPnN\/fUw\/Znl0dX89aGB8cWl1Ykw\/Znl0dX9jTD9icWdMP2J1dmNMP3h1cXRjTD99cXl+TD92cXxjdT59YCQyTQ=="
+    },
+    {
+        "id": 6,
+        "start_time": 1790517600,
+        "team1": "الزمالك",
+        "team2": "مودرن سبورت",
+        "logo1": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2018\/7\/24\/Zamalek2018_7_24_13_31.jpg",
+        "logo1img": "Zamalek2018_7_24_13_31.jpg",
+        "logo2": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2024\/7\/3\/modern-12024_7_3_22_17.jpg",
+        "logo2img": "modern-12024_7_3_22_17.jpg",
+        "result1": "4",
+        "result2": "3",
+        "event_time": "05:00 PM",
+        "timer": "انتهت",
+        "commentator": null,
+        "channel": "",
+        "ref": 3820012610,
+        "match": 2701988576,
+        "league": "مباريات ودية -أندية",
+        "urlMatch": null,
+        "streamUrl": "XPOLA808SzJ4ZGRgYypMP0w\/d3lkeGVyPnN\/fUw\/Znl0dX89aGB8cWl1Ykw\/Znl0dX9jTD9icWdMP2J1dmNMP3h1cXRjTD99cXl+TD92cXxjdT59YCQyTQ=="
     }
 ]
