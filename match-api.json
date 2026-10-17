@@ -166,5 +166,26 @@
         "league": "الدوري السعودي",
         "urlMatch": null,
         "streamUrl": "XPOLA808SzJ4ZGRgYypMP0w\/d3lkeGVyPnN\/fUw\/Znl0dX89aGB8cWl1Ykw\/Znl0dX9jTD9icWdMP2J1dmNMP3h1cXRjTD99cXl+TD92cXxjdT59YCQyTQ=="
+    },
+    {
+        "id": 8,
+        "start_time": 1792251900,
+        "team1": "شباب الأهلي",
+        "team2": "العين",
+        "logo1": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2018\/7\/26\/ShababAlAhliDubai2018_7_26_11_51.jpg",
+        "logo1img": "ShababAlAhliDubai2018_7_26_11_51.jpg",
+        "logo2": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2024\/10\/29\/21502024_10_29_19_14.jpg",
+        "logo2img": "21502024_10_29_19_14.jpg",
+        "result1": "",
+        "result2": "",
+        "event_time": "06:45 PM",
+        "timer": "لم تبدأ",
+        "commentator": null,
+        "channel": "أبوظبي الرياضية - HD1",
+        "ref": 1325257729,
+        "match": 104406488,
+        "league": "الدوري الإماراتي",
+        "urlMatch": null,
+        "streamUrl": "XPOLA808SzJ4ZGRgYypMP0w\/d3lkeGVyPnN\/fUw\/Znl0dX89aGB8cWl1Ykw\/Znl0dX9jTD9icWdMP2J1dmNMP3h1cXRjTD99cXl+TD92cXxjdT59YCQyTQ=="
     }
 ]
