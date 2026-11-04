@@ -114,7 +114,7 @@
         "logo2": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2024\/8\/12\/10472024_8_12_20_53.jpg",
         "logo2img": "10472024_8_12_20_53.jpg",
         "result1": "0",
-        "result2": "0",
+        "result2": "1",
         "event_time": "11:00 PM",
         "timer": "مباشــر",
         "commentator": null,
@@ -166,5 +166,26 @@
         "league": "دوري أبطال أوروبا",
         "urlMatch": null,
         "streamUrl": "XPOLA808SzJ4ZGRgKkw\/TD90dXY+aXFzeX51fHlmdT5zf31MP3FgeUw\/c3hxfn51fEw\/ISQiJ2xlY3ViPXF3dX5kLX97eGRkYEw\/JD4hIj4gMjwyeGRkYCpMP0w\/fGNgcWBgPmNkf2J1TD9SVVlePSRMP2Z5dHV\/Pn0jZShseGRkYHNxfnFiaS12cXxjdWxif2QtdnF8Y3VsdHVmeXN1Yn9\/ZC12cXxjdWx1fWV8cWR\/Yi12cXxjdWxzcWNkLXZxfGN1bH5xfXUtQEAyPDJ4ZGRgKkw\/TD91KXYkISF1cj5\/ZGR\/fH97Pn51ZEw\/eWBkZkw\/SVRWQkdFQVhFW11eIkZMPyYhIiVMP3l+dHVoPn0jZShsfnF9dS1bXjI8MnhkZGAqTD9MPyEiJz4gPiA+ISomIyAgIEw\/fHlmdUw\/fXVPc3hxfn51fC99dU9lYnwtZGVicn8qTD9MP3x5ZnU+IGZzfXMgImZ8KHF3aClqKHphY2hMPyh2ISgldnEjIyAnJnInJiEnISAgJSMjdSYhKSgncSkhJXFyJTM+fWB0bH5xfXUtXlVEMk0="
+    },
+    {
+        "id": 8,
+        "start_time": 1793822400,
+        "team1": "الجيش الملكي",
+        "team2": "الرجاء البيضاوي",
+        "logo1": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2018\/7\/24\/AlgaishElmalaky2018_7_24_17_49.jpg",
+        "logo1img": "AlgaishElmalaky2018_7_24_17_49.jpg",
+        "logo2": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2018\/7\/24\/RajaCasablanca2018_7_24_12_33.jpg",
+        "logo2img": "RajaCasablanca2018_7_24_12_33.jpg",
+        "result1": "0",
+        "result2": "1",
+        "event_time": "11:00 PM",
+        "timer": "مباشــر",
+        "commentator": null,
+        "channel": "",
+        "ref": 3820012610,
+        "match": 2107047379,
+        "league": "الدوري المغربي",
+        "urlMatch": null,
+        "streamUrl": "XPOLA808SzJ4ZGRgYypMP0w\/d3lkeGVyPnN\/fUw\/Znl0dX89aGB8cWl1Ykw\/Znl0dX9jTD9icWdMP2J1dmNMP3h1cXRjTD99cXl+TD92cXxjdT59YCQyTQ=="
     }
 ]
