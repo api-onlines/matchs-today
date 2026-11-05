@@ -32,7 +32,7 @@
         "result1": "4",
         "result2": "1",
         "event_time": "06:00 PM",
-        "timer": "مباشــر",
+        "timer": "انتهت",
         "commentator": null,
         "channel": "ON Sport",
         "ref": 828156060,
@@ -106,7 +106,7 @@
     },
     {
         "id": 5,
-        "start_time": 1793900701,
+        "start_time": 1793900700,
         "team1": "طرابزون سبور",
         "team2": "فرايبورج",
         "logo1": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2021\/7\/15\/Trabzonspor2021_7_15_15_32.jpg",
