@@ -22,27 +22,6 @@
     },
     {
         "id": 1,
-        "start_time": 1794920434,
-        "team1": "جنوب السودان",
-        "team2": "أنجـــــولا",
-        "logo1": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2018\/7\/26\/SouthSudan2018_7_26_19_33.jpg",
-        "logo1img": "SouthSudan2018_7_26_19_33.jpg",
-        "logo2": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2018\/7\/26\/Angola2018_7_26_19_26.jpg",
-        "logo2img": "Angola2018_7_26_19_26.jpg",
-        "result1": "0",
-        "result2": "1",
-        "event_time": "04:00 PM",
-        "timer": "انتهت",
-        "commentator": null,
-        "channel": "beIN SPORTS 3",
-        "ref": 3985737264,
-        "match": 3485797641,
-        "league": "تصفيات أمم أفريقيا",
-        "urlMatch": null,
-        "streamUrl": "XPOLA808SzJ4ZGRgKkw\/TD90dXY+aXFzeX51fHlmdT5zf31MP3FgeUw\/c3hxfn51fEw\/JmxlY3ViPXF3dX5kLX97eGRkYEw\/JD4hIj4gMjwyeGRkYCpMP0w\/ISInPiA+ID4hKiYjICAgTD98eWZ1TD99dU9zeHF+fnV8L311T2VifC1kZWJyfypMP0w\/fHlmdT4gZnN9cyAiZnwocXdoKWooemFjaEw\/JXR1dCYhJSMjdXNzIXZ1cichICAlIyN1JiEpKCdxKSElKShyMz59YHRsfnF9dS1eVUQyPDJ4ZGRgKkw\/TD91KXYkISF1cj5\/ZGR\/fH97Pn51ZEw\/eWBkZkw\/SVRWQkdFQVhFW11eIkZMPyYhIiRMP3l+dHVoPn0jZShsfnF9dS1bXjJN"
-    },
-    {
-        "id": 2,
         "start_time": 1794931200,
         "team1": "توجـــو",
         "team2": "الجزائر",
@@ -63,7 +42,7 @@
         "streamUrl": "XPOLA808SzJ4ZGRgKkw\/TD90dXY+aXFzeX51fHlmdT5zf31MP3FgeUw\/c3hxfn51fEw\/ISQiJWxlY3ViPXF3dX5kLX97eGRkYEw\/JD4hIj4gbH5xfXUtSSEyPDJ4ZGRgYypMP0w\/cWB5PWBif2hxdD50cyI+f2F1dT5+dWRMP2B8cWl8eWNkTD9mIUw\/fHlmdUw\/KSYmTD8hTD98eWZ1Pn1gdGx4ZGRgc3F+cWJpLXZxfGN1bHNxY2QtdnF8Y3VsfnF9dS1WQmx0Yn09eX52fy1zfHVxYnt1aWwjcXN1cSAhIiQkJyglcSYjJiN2cyAkciIldCYpJiMpIip2IHIodigkdHJ0KSMkICdxdiZxciByJCF2cycnJCIkKTwpdChyIXIoISlzdnRzdnYoJCUmIiVyKCZzcyQpJih2IyokKCByICN2dSQkJyZycyEoJ3MmcSl0JCNycSglcil0cjwjc3YmKCZ0cyQiJCZ2ISlycyQkISlzJSR0cSB2KSBycypyJCB2JSkpIiYmcyhxIiYic3N2JHEjKCR0cXRzdSAocTxyJiMmIiknJXNxIil0ICYoJXInc3FzJyIhciZ2cXEiJip0cSAkdCEoIHUpICIocXYiJyQoInImcSMncyghdSAiIDwmc3EidiJzKCIiJCQkdnYnJnQpJScgJyQhdHVzJ3IiciopdnMjdCchcXIjIHUodCMjdiApdXUiKXUldSQlIyYgKDJN"
     },
     {
-        "id": 3,
+        "id": 2,
         "start_time": 1794931200,
         "team1": "ليبيا",
         "team2": "تونس",
@@ -82,6 +61,27 @@
         "league": "تصفيات أمم أفريقيا",
         "urlMatch": null,
         "streamUrl": "XPOLA808SzJ4ZGRgKkw\/TD90dXY+aXFzeX51fHlmdT5zf31MP3FgeUw\/c3hxfn51fEw\/ISQiJGxlY3ViPXF3dX5kLX97eGRkYEw\/JD4hIj4gbH5xfXUtSVEyPDJ4ZGRgKkw\/TD91KXYkISF1cj5\/ZGR\/fH97Pn51ZEw\/eWBkZkw\/SVRWQkdFQVhFW11eIkZMPyYhIiNMP3l+dHVoPn0jZShsfnF9dS1bXjJN"
+    },
+    {
+        "id": 3,
+        "start_time": 1794942008,
+        "team1": "رواندا",
+        "team2": "مالي",
+        "logo1": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2018\/7\/26\/Rwanda2018_7_26_19_25.jpg",
+        "logo1img": "Rwanda2018_7_26_19_25.jpg",
+        "logo2": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2018\/7\/26\/Mali2018_7_26_19_21.jpg",
+        "logo2img": "Mali2018_7_26_19_21.jpg",
+        "result1": "",
+        "result2": "",
+        "event_time": "10:00 PM",
+        "timer": "لم تبدأ",
+        "commentator": null,
+        "channel": "بى ان سبورت اكسترا 1",
+        "ref": 3981635433,
+        "match": 3085271913,
+        "league": "تصفيات أمم أفريقيا",
+        "urlMatch": null,
+        "streamUrl": "XPOLA808SzJ4ZGRgYypMP0w\/d3lkeGVyPnN\/fUw\/Znl0dX89aGB8cWl1Ykw\/Znl0dX9jTD9icWdMP2J1dmNMP3h1cXRjTD99cXl+TD92cXxjdT59YCQyTQ=="
     },
     {
         "id": 4,
@@ -166,26 +166,5 @@
         "league": "دوري الأمم الأوروبية",
         "urlMatch": null,
         "streamUrl": "XPOLA808SzJ4ZGRgYypMP0w\/dHRpJj5+dWd7Y38+YmVMP3R0aSZMP2BidX15ZX0pKUw\/fX9+fz59I2UobH9ieXd5fi14ZGRgYypMP0w\/e39+dH9gfHFpPnN2dGxlY3ViPXF3dX5kLV1\/anl8fHFMPyU+IDA4R3l+dH9nYzBeRDAhID4gKzBHeX4mJCswaCYkOTBRYGB8dUd1clt5ZEw\/JSMnPiMmMDhbWERdXDwwfHl7dTBXdXN7fzkwU3hif311TD8pJj4gPiQmIyg+JSQwQ3F2cWJ5TD8lIyc+IyZsYnV2dWJ1Yi14ZGRgYypMP0w\/e39+dH9gfHFpPnN2dEw\/bHFlZHgteGRkYGMqTD9MP2dnZz51fHF4fXF0Pn51ZEw\/cWBgTyEgKUw\/YmVMP2JlT319Ij5geGBMPykpbH5xfXUtUikyPDJ4ZGRgYypMP0w\/fHlmdSRxfHw+fnVkTD92YnF9dT5geGAvc3gtcnV5filsYHxxaXViPWRpYHUtZ3VyInVof2xidXZ1YnViLXhkZGBjKkw\/TD98eWZ1JHF8fD5+dWRMP2dxZHN4PmB4YGx+cX11LSRxbHZ5fnQtfSNlKDI8MnhkZGBjKkw\/TD99fyNxdD5oaWpMP3x5ZnVMP31\/I3F0JSEhTD99fyNxdCUhIUw\/JSAmPmRjbH5xfXUtXX8yTQ=="
-    },
-    {
-        "id": 8,
-        "start_time": 1794924000,
-        "team1": "الزمالك",
-        "team2": "البنك الأهلي",
-        "logo1": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2018\/7\/24\/Zamalek2018_7_24_13_31.jpg",
-        "logo1img": "Zamalek2018_7_24_13_31.jpg",
-        "logo2": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2018\/7\/31\/AhlyBank2018_7_31_17_33.jpg",
-        "logo2img": "AhlyBank2018_7_31_17_33.jpg",
-        "result1": "2",
-        "result2": "0",
-        "event_time": "05:00 PM",
-        "timer": "انتهت",
-        "commentator": null,
-        "channel": "",
-        "ref": 3820012610,
-        "match": 230275738,
-        "league": "مباريات ودية -أندية",
-        "urlMatch": null,
-        "streamUrl": "XPOLA808SzJ4ZGRgYypMP0w\/d3lkeGVyPnN\/fUw\/Znl0dX89aGB8cWl1Ykw\/Znl0dX9jTD9icWdMP2J1dmNMP3h1cXRjTD99cXl+TD92cXxjdT59YCQyTQ=="
     }
 ]
