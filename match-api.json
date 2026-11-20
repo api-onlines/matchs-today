@@ -32,7 +32,7 @@
         "result1": "5",
         "result2": "0",
         "event_time": "05:00 PM",
-        "timer": "مباشــر",
+        "timer": "انتهت",
         "commentator": null,
         "channel": "الكأس 9",
         "ref": 2810840784,
@@ -43,6 +43,27 @@
     },
     {
         "id": 2,
+        "start_time": 1795190400,
+        "team1": "فيجي",
+        "team2": "المغرب",
+        "logo1": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2025\/10\/27\/fiji_square_icon_6402025_10_27_0_43.webp",
+        "logo1img": "fiji_square_icon_6402025_10_27_0_43.webp",
+        "logo2": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2025\/11\/9\/morocco_square_icon_2562025_11_9_22_5.webp",
+        "logo2img": "morocco_square_icon_2562025_11_9_22_5.webp",
+        "result1": "0",
+        "result2": "2",
+        "event_time": "07:00 PM",
+        "timer": "مباشــر",
+        "commentator": null,
+        "channel": "الكأس 1",
+        "ref": 934904235,
+        "match": 3117767972,
+        "league": "كأس العالم تحت 17 عاما",
+        "urlMatch": null,
+        "streamUrl": "XPOLA808SzJ4ZGRgYypMP0w\/d3lkeGVyPnN\/fUw\/Znl0dX89aGB8cWl1Ykw\/Znl0dX9jTD9icWdMP2J1dmNMP3h1cXRjTD99cXl+TD92cXxjdT59YCQyTQ=="
+    },
+    {
+        "id": 3,
         "start_time": 1795186800,
         "team1": "كهرباء الإسماعيلية",
         "team2": "سيراميكا كليوباترا",
@@ -63,7 +84,7 @@
         "streamUrl": "XPOLA808SzJ4ZGRgYypMP0w\/d3lkeGVyPnN\/fUw\/Znl0dX89aGB8cWl1Ykw\/Znl0dX9jTD9icWdMP2J1dmNMP3h1cXRjTD99cXl+TD92cXxjdT59YCQyTQ=="
     },
     {
-        "id": 3,
+        "id": 4,
         "start_time": 1795204800,
         "team1": "أتلتيك بلباو",
         "team2": "اسبانيول",
@@ -84,7 +105,7 @@
         "streamUrl": "XPOLA808SzJ4ZGRgKkw\/TD90dXY+aXFzeX51fHlmdT5zf31MP3FgeUw\/c3hxfn51fEw\/ISQiJGxlY3ViPXF3dX5kLX97eGRkYEw\/JD4hIj4gbH5xfXUtSVEyPDJ4ZGRgKkw\/TD91KXYkISF1cj5\/ZGR\/fH97Pn51ZEw\/eWBkZkw\/SVRWQkdFQVhFW11eIkZMPyYhIiNMP3l+dHVoPn0jZShsfnF9dS1bXjJN"
     },
     {
-        "id": 4,
+        "id": 5,
         "start_time": 1795203000,
         "team1": "بايرن ميونيخ",
         "team2": "كولن",
@@ -105,7 +126,7 @@
         "streamUrl": "XPOLA808SzJ4ZGRgYypMP0w\/d3lkeGVyPnN\/fUw\/Znl0dX89aGB8cWl1Ykw\/Znl0dX9jTD9icWdMP2J1dmNMP3h1cXRjTD99cXl+TD92cXxjdT59YCQyTQ=="
     },
     {
-        "id": 5,
+        "id": 6,
         "start_time": 1795195800,
         "team1": "أهلي جدة",
         "team2": "النصر",
@@ -126,7 +147,7 @@
         "streamUrl": "XPOLA808SzJ4ZGRgYypMP0w\/d3lkeGVyPnN\/fUw\/Znl0dX89aGB8cWl1Ykw\/Znl0dX9jTD9icWdMP2J1dmNMP3h1cXRjTD99cXl+TD92cXxjdT59YCQyTQ=="
     },
     {
-        "id": 6,
+        "id": 7,
         "start_time": 1795178700,
         "team1": "اتحاد كلباء",
         "team2": "الشــارقة",
@@ -147,7 +168,7 @@
         "streamUrl": "XPOLA808SzJ4ZGRgYypMP0w\/d3lkeGVyPnN\/fUw\/Znl0dX89aGB8cWl1Ykw\/Znl0dX9jTD9icWdMP2J1dmNMP3h1cXRjTD99cXl+TD92cXxjdT59YCQyTQ=="
     },
     {
-        "id": 7,
+        "id": 8,
         "start_time": 1795188300,
         "team1": "شباب الأهلي",
         "team2": "عجمان",
