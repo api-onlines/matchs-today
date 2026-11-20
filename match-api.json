@@ -65,27 +65,6 @@
     {
         "id": 3,
         "start_time": 1795177800,
-        "team1": "بروكسي",
-        "team2": "طنطا‏",
-        "logo1": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2023\/5\/4\/42023_5_4_17_47.jpg",
-        "logo1img": "42023_5_4_17_47.jpg",
-        "logo2": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2018\/7\/31\/Tanta2018_7_31_16_51.jpg",
-        "logo2img": "Tanta2018_7_31_16_51.jpg",
-        "result1": "0",
-        "result2": "0",
-        "event_time": "03:30 PM",
-        "timer": "انتهت",
-        "commentator": null,
-        "channel": "",
-        "ref": 3820012610,
-        "match": 1410107529,
-        "league": "دوري القسم الثاني-أ",
-        "urlMatch": null,
-        "streamUrl": "XPOLA808SzJ4ZGRgYypMP0w\/d3lkeGVyPnN\/fUw\/Znl0dX89aGB8cWl1Ykw\/Znl0dX9jTD9icWdMP2J1dmNMP3h1cXRjTD99cXl+TD92cXxjdT59YCQyTQ=="
-    },
-    {
-        "id": 4,
-        "start_time": 1795177800,
         "team1": "تيم اف سي",
         "team2": "مسار",
         "logo1": "https:\/\/mediayk.gemini.media\/img\/yallakora\/iosteams\/120\/2024\/12\/28\/team-fc2024_12_28_15_23.jpg",
@@ -105,7 +84,7 @@
         "streamUrl": "XPOLA808SzJ4ZGRgYypMP0w\/d3lkeGVyPnN\/fUw\/Znl0dX89aGB8cWl1Ykw\/Znl0dX9jTD9icWdMP2J1dmNMP3h1cXRjTD99cXl+TD92cXxjdT59YCQyTQ=="
     },
     {
-        "id": 5,
+        "id": 4,
         "start_time": 1795177800,
         "team1": "مالية كفر الزيات",
         "team2": "نادى دلتا يونايتد",
@@ -126,7 +105,7 @@
         "streamUrl": "XPOLA808SzJ4ZGRgYypMP0w\/d3lkeGVyPnN\/fUw\/Znl0dX89aGB8cWl1Ykw\/Znl0dX9jTD9icWdMP2J1dmNMP3h1cXRjTD99cXl+TD92cXxjdT59YCQyTQ=="
     },
     {
-        "id": 6,
+        "id": 5,
         "start_time": 1795195800,
         "team1": "أهلي جدة",
         "team2": "النصر",
@@ -147,7 +126,7 @@
         "streamUrl": "XPOLA808SzJ4ZGRgYypMP0w\/d3lkeGVyPnN\/fUw\/Znl0dX89aGB8cWl1Ykw\/Znl0dX9jTD9icWdMP2J1dmNMP3h1cXRjTD99cXl+TD92cXxjdT59YCQyTQ=="
     },
     {
-        "id": 7,
+        "id": 6,
         "start_time": 1795178700,
         "team1": "اتحاد كلباء",
         "team2": "الشــارقة",
@@ -158,7 +137,7 @@
         "result1": "0",
         "result2": "3",
         "event_time": "03:45 PM",
-        "timer": "مباشــر",
+        "timer": "انتهت",
         "commentator": null,
         "channel": "أبوظبي الرياضية - HD1",
         "ref": 1325257729,
@@ -168,7 +147,7 @@
         "streamUrl": "XPOLA808SzJ4ZGRgYypMP0w\/d3lkeGVyPnN\/fUw\/Znl0dX89aGB8cWl1Ykw\/Znl0dX9jTD9icWdMP2J1dmNMP3h1cXRjTD99cXl+TD92cXxjdT59YCQyTQ=="
     },
     {
-        "id": 8,
+        "id": 7,
         "start_time": 1795188300,
         "team1": "شباب الأهلي",
         "team2": "عجمان",
